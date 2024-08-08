@@ -2,7 +2,7 @@
 </script>
 
 <template>
-  <RouterView />
+  <el-button type="primary"> login </el-button>
 </template>
 
 <style lang="scss" scoped>
